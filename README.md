@@ -240,6 +240,3 @@ Potential extensions include:
 ## Author
 
 **Kartik Raman**
-
-M.Tech Computer Science  
-Indian Statistical Institute, Kolkata
